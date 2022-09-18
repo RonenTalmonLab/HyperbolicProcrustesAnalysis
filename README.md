@@ -1,6 +1,7 @@
 # Hyperbolic Procrustes Analysis Using Riemannian Geometry
 The code in this repository creates the figures presented in this article: 
 https://proceedings.neurips.cc/paper/2021/file/2ed80f6311c1825feb854d78fa969d34-Paper.pdf
+
 Please notice that in order to apply the code to the data sets, they need to be downloaded first from the following specified links. 
 The code was developed and tested in Python 3.8.
   
